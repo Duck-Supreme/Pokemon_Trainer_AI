@@ -4,6 +4,8 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/poke_ai/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/poke_interface/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/poke_ai/target" />
+      <excludeFolder url="file://$MODULE_DIR$/poke_interface/target" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
