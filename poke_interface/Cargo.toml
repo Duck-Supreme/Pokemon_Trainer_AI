@@ -1,0 +1,7 @@
+[package]
+name = "poke_interface"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+poke_ai = { path = "../poke_ai"}
